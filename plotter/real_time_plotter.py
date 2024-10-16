@@ -1,4 +1,5 @@
-
+import matplotlib
+matplotlib.use('TkAgg')  # or 'Qt5Agg', 'Qt4Agg', etc. depending on what's installed
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
