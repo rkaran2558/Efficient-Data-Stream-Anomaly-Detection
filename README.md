@@ -57,7 +57,7 @@ Efficient-Data-Stream-Anomaly-Detection/
    git clone https://github.com/rkaran2558/Efficient-Data-Stream-Anomaly-Detection.git
    cd Efficient-Data-Stream-Anomaly-Detection
    ```
-2. **Install required system dependencies**:
+2. **Install required system dependencies only for Linux Systems**:
 
    This project requires `python3-tk` for the visualization. Install it using:
 
