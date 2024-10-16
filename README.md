@@ -57,8 +57,14 @@ Efficient-Data-Stream-Anomaly-Detection/
    git clone https://github.com/rkaran2558/Efficient-Data-Stream-Anomaly-Detection.git
    cd Efficient-Data-Stream-Anomaly-Detection
    ```
+2. **Install required system dependencies**:
 
-2. **Install required dependencies**:
+   This project requires `python3-tk` for the visualization. Install it using:
+
+   ```bash
+   sudo apt-get install python3-tk
+   ```
+3. **Install required Python dependencies**:
 
    Make sure you have Python 3.x installed. Then install the dependencies listed in `requirements.txt`:
 
@@ -72,6 +78,7 @@ Efficient-Data-Stream-Anomaly-Detection/
    matplotlib==3.4.3
    numpy==1.21.2
    ```
+
 
 3. **Run the project**:
 
