@@ -23,6 +23,9 @@ This project is a simulation-based application that:
 
 EWMA is particularly useful in detecting subtle changes in the data pattern, making it ideal for anomaly detection in time-series data.
 
+## Screenshot of Result
+![Data Stream Example](./ScrenshotOfResult.png)
+
 ## Features
 
 - Real-time data stream generation with added noise.
